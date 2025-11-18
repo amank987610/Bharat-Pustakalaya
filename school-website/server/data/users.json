@@ -1,0 +1,55 @@
+{
+  "students": [
+    {
+      "id": "S001",
+      "name": "Rahul Kumar",
+      "email": "rahul@student.com",
+      "password": "$2a$10$XqZ8J5K9X8J5K9X8J5K9Xe",
+      "class": "10",
+      "rollNumber": "101",
+      "parentEmail": "parent.rahul@gmail.com",
+      "role": "student"
+    },
+    {
+      "id": "S002",
+      "name": "Priya Singh",
+      "email": "priya@student.com",
+      "password": "$2a$10$XqZ8J5K9X8J5K9X8J5K9Xe",
+      "class": "12",
+      "rollNumber": "201",
+      "parentEmail": "parent.priya@gmail.com",
+      "role": "student"
+    }
+  ],
+  "teachers": [
+    {
+      "id": "T001",
+      "name": "Dr. Amit Sharma",
+      "email": "amit@teacher.com",
+      "password": "$2a$10$XqZ8J5K9X8J5K9X8J5K9Xe",
+      "subject": "Mathematics",
+      "qualification": "M.Sc., B.Ed.",
+      "experience": "15 years",
+      "role": "teacher"
+    },
+    {
+      "id": "T002",
+      "name": "Mrs. Sunita Devi",
+      "email": "sunita@teacher.com",
+      "password": "$2a$10$XqZ8J5K9X8J5K9X8J5K9Xe",
+      "subject": "Science",
+      "qualification": "M.Sc., B.Ed.",
+      "experience": "12 years",
+      "role": "teacher"
+    }
+  ],
+  "admin": [
+    {
+      "id": "A001",
+      "name": "Principal",
+      "email": "admin@school.com",
+      "password": "$2a$10$XqZ8J5K9X8J5K9X8J5K9Xe",
+      "role": "admin"
+    }
+  ]
+}

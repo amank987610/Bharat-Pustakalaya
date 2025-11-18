@@ -1,0 +1,44 @@
+{
+  "reports": [
+    {
+      "id": "R001",
+      "studentId": "S001",
+      "studentName": "Rahul Kumar",
+      "class": "10",
+      "rollNumber": "101",
+      "month": "November",
+      "year": "2025",
+      "subjects": [
+        { "name": "Mathematics", "marks": 85, "maxMarks": 100, "grade": "A" },
+        { "name": "Science", "marks": 78, "maxMarks": 100, "grade": "B+" },
+        { "name": "English", "marks": 82, "maxMarks": 100, "grade": "A" },
+        { "name": "Hindi", "marks": 88, "maxMarks": 100, "grade": "A" },
+        { "name": "Social Science", "marks": 75, "maxMarks": 100, "grade": "B+" }
+      ],
+      "totalMarks": 408,
+      "maxTotalMarks": 500,
+      "percentage": 81.6,
+      "overallGrade": "A"
+    },
+    {
+      "id": "R002",
+      "studentId": "S002",
+      "studentName": "Priya Singh",
+      "class": "12",
+      "rollNumber": "201",
+      "month": "November",
+      "year": "2025",
+      "subjects": [
+        { "name": "Physics", "marks": 92, "maxMarks": 100, "grade": "A+" },
+        { "name": "Chemistry", "marks": 88, "maxMarks": 100, "grade": "A" },
+        { "name": "Mathematics", "marks": 95, "maxMarks": 100, "grade": "A+" },
+        { "name": "English", "marks": 85, "maxMarks": 100, "grade": "A" },
+        { "name": "Computer Science", "marks": 90, "maxMarks": 100, "grade": "A+" }
+      ],
+      "totalMarks": 450,
+      "maxTotalMarks": 500,
+      "percentage": 90.0,
+      "overallGrade": "A+"
+    }
+  ]
+}
