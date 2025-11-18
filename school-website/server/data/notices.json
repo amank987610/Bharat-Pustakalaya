@@ -1,0 +1,40 @@
+{
+  "notices": [
+    {
+      "id": "N001",
+      "title": "Winter Vacation Notice",
+      "content": "School will remain closed from December 25, 2025 to January 5, 2026 for winter vacation. Classes will resume on January 6, 2026.",
+      "date": "2025-11-15",
+      "category": "Holiday",
+      "priority": "high",
+      "expiryDate": "2026-01-06"
+    },
+    {
+      "id": "N002",
+      "title": "Annual Sports Day",
+      "content": "Annual Sports Day will be held on December 15, 2025. All students are requested to participate actively. Parents are cordially invited.",
+      "date": "2025-11-10",
+      "category": "Event",
+      "priority": "medium",
+      "expiryDate": "2025-12-16"
+    },
+    {
+      "id": "N003",
+      "title": "Monthly Test Schedule",
+      "content": "Monthly tests for November will be conducted from November 20-25, 2025. Students should prepare accordingly.",
+      "date": "2025-11-05",
+      "category": "Exam",
+      "priority": "high",
+      "expiryDate": "2025-11-26"
+    },
+    {
+      "id": "N004",
+      "title": "Parent-Teacher Meeting",
+      "content": "Parent-Teacher meeting is scheduled for November 30, 2025 at 10:00 AM. All parents are requested to attend.",
+      "date": "2025-11-12",
+      "category": "Meeting",
+      "priority": "high",
+      "expiryDate": "2025-12-01"
+    }
+  ]
+}
